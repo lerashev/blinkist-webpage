@@ -207,15 +207,12 @@ body {
     font-size: 1rem;
 }
 
-/* Screen smaller than 850px */
-
 @media (max-width: 850px) {
     .main-container {
         padding: 2rem;
     }
 }
 
-/* Screen smaller than 500px */
 @media (max-width: 500px) {
     .main-header {
         gap: 2.5rem;
